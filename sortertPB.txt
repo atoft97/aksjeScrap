@@ -1,0 +1,196 @@
+Navn: MPC Container Ships                     PE: -1093.33                      PB: 7.42                
+Navn: FLEX LNG                                PE: -239.0                        PB: 1.03                
+Navn: ContextVision                           PE: -200.74                       PB: 7.09                
+Navn: Gaming Innovation Group                 PE: -57.13                        PB: 2.01                
+Navn: NEL                                     PE: -41.82                        PB: 3.26                
+Navn: Zalaris                                 PE: -39.24                        PB: 4.55                
+Navn: Aqualis                                 PE: -35.45                        PB: 5.82                
+Navn: Norwegian Energy Company                PE: -35.15                        PB: 3.43                
+Navn: Techstep                                PE: -33.0                         PB: 1.06                
+Navn: Photocure                               PE: -27.03                        PB: 4.59                
+Navn: Petrolia                                PE: -25.0                         PB: 0.68                
+Navn: Akastor                                 PE: -15.27                        PB: 0.61                
+Navn: Borr Drilling                           PE: -14.25                        PB: 0.8                 
+Navn: InterOil Exploration and Production     PE: -14.09                        PB: -3.41               
+Navn: PCI Biotech Holding                     PE: -13.59                        PB: 16.13               
+Navn: Magseis Fairfield                       PE: -13.12                        PB: 1.15                
+Navn: SeaBird Exploration                     PE: -13.08                        PB: 1.2                 
+Navn: Spectrum                                PE: -12.64                        PB: 1.48                
+Navn: Otello Corporation                      PE: -8.68                         PB: 0.46                
+Navn: Biotec Pharmacon                        PE: -8.41                         PB: 3.63                
+Navn: Navamedic                               PE: -8.27                         PB: 1.12                
+Navn: Wentworth Resources                     PE: -8.12                         PB: 0.25                
+Navn: BW LPG                                  PE: -8.06                         PB: 0.43                
+Navn: Nordic Nanovector                       PE: -7.7                          PB: 3.8                 
+Navn: BerGenBio                               PE: -6.95                         PB: 3.73                
+Navn: Goodtech                                PE: -5.87                         PB: 0.36                
+Navn: Panoro Energy                           PE: -5.8                          PB: 3.34                
+Navn: Team Tankers International              PE: -5.51                         PB: 0.38                
+Navn: Havyard Group                           PE: -5.14                         PB: 0.49                
+Navn: Awilco Drilling                         PE: -4.58                         PB: 0.46                
+Navn: Insr Insurance Group                    PE: -4.55                         PB: 2.33                
+Navn: Questerre Energy Corporation            PE: -4.15                         PB: 0.44                
+Navn: Frontline                               PE: -3.6                          PB: 0.85                
+Navn: Archer                                  PE: -3.57                         PB: 0.37                
+Navn: Hiddn Solutions                         PE: -3.14                         PB: 6.14                
+Navn: GC Rieber Shipping                      PE: -3.03                         PB: 0.35                
+Navn: Bergen Group                            PE: -2.81                         PB: 0.57                
+Navn: Targovax                                PE: -2.8                          PB: 0.77                
+Navn: Borgestad                               PE: -2.64                         PB: 0.13                
+Navn: Cxense                                  PE: -2.57                         PB: 1.47                
+Navn: Bonheur                                 PE: -2.54                         PB: 0.35                
+Navn: Reach Subsea                            PE: -2.44                         PB: 0.18                
+Navn: NEXT Biometrics Group                   PE: -2.33                         PB: 2.38                
+Navn: Avance Gas Holding                      PE: -2.08                         PB: 0.27                
+Navn: Petroleum Geo-Services                  PE: -1.94                         PB: 0.57                
+Navn: Prosafe                                 PE: -1.56                         PB: 0.28                
+Navn: Treasure                                PE: -1.34                         PB: 0.54                
+Navn: Electromagnetic Geoservices             PE: -1.16                         PB: 0.57                
+Navn: Incus Investor                          PE: -0.83                         PB: 0.37                
+Navn: DOF                                     PE: -0.71                         PB: 0.11                
+Navn: Storm Real Estate                       PE: -0.67                         PB: 0.42                
+Navn: IDEX                                    PE: -0.65                         PB: 4.84                
+Navn: Polarcus                                PE: -0.56                         PB: 0.39                
+Navn: Element                                 PE: -0.51                         PB: 0.79                
+Navn: REC Silicon                             PE: -0.37                         PB: 0.39                
+Navn: Solstad Offshore                        PE: -0.19                         PB: 0.11                
+Navn: Thin Film Electronics                   PE: -0.18                         PB: 0.84                
+Navn: Havila Shipping                         PE: -0.16                         PB: 0.08                
+Navn: Oceanteam                               PE: -0.11                         PB: 0.02                
+Navn: Avocet Mining PLC                       PE: -0.06                         PB: -0.02               
+Navn: Fred. Olsen Energy                      PE: -0.02                         PB: 0.02                
+Navn: Atlantic Petroleum                      PE: 0.0                           PB: 0.0                 
+Navn: Aurskog Sparebank                       PE: 0.0                           PB: 0.0                 
+Navn: Belships                                PE: 0.0                           PB: 0.0                 
+Navn: Eidesvik Offshore                       PE: 0.0                           PB: 0.0                 
+Navn: Elkem                                   PE: 0.0                           PB: 0.0                 
+Navn: EMAS Offshore                           PE: 0.0                           PB: 0.0                 
+Navn: Fjordkraft Holding                      PE: 0.0                           PB: 0.0                 
+Navn: Gyldendal                               PE: 0.0                           PB: 0.0                 
+Navn: Høland og Setskog Sparebank             PE: 0.0                           PB: 0.0                 
+Navn: Infront                                 PE: 0.0                           PB: 0.0                 
+Navn: Jæren Sparebank                         PE: 0.0                           PB: 0.0                 
+Navn: Kid                                     PE: 0.0                           PB: 0.0                 
+Navn: Multiconsult                            PE: 0.0                           PB: 0.0                 
+Navn: Napatech                                PE: 0.0                           PB: 0.0                 
+Navn: Odfjell ser. A                          PE: 0.0                           PB: 0.0                 
+Navn: Odfjell ser. B                          PE: 0.0                           PB: 0.0                 
+Navn: poLight                                 PE: 0.0                           PB: 0.0                 
+Navn: RAK Petroleum                           PE: 0.0                           PB: 0.0                 
+Navn: Salmones Camanchaca                     PE: 0.0                           PB: 0.0                 
+Navn: Seadrill                                PE: 0.0                           PB: 0.0                 
+Navn: Shelf Drilling                          PE: 0.0                           PB: 0.0                 
+Navn: Siem Offshore                           PE: 0.0                           PB: 0.0                 
+Navn: Skue Sparebank                          PE: 0.0                           PB: 0.0                 
+Navn: SpareBank 1 Nordvest                    PE: 0.0                           PB: 0.0                 
+Navn: SpareBank 1 Ringerike Hadeland          PE: 0.0                           PB: 0.0                 
+Navn: Star Bulk Carriers                      PE: 0.0                           PB: 0.0                 
+Navn: Voss Veksel- og Landmandsbank           PE: 0.0                           PB: 0.0                 
+Navn: Webstep                                 PE: 0.0                           PB: 0.0                 
+Navn: Wilson                                  PE: 0.0                           PB: 0.0                 
+Navn: Magnora                                 PE: 0.12                          PB: 0.21                
+Navn: ABG Sundal Collier Holding              PE: 1.03                          PB: 2.3                 
+Navn: Wallenius Wilhelmsen                    PE: 1.04                          PB: 0.52                
+Navn: NextGenTel Holding                      PE: 1.98                          PB: 2.59                
+Navn: Vistin Pharma                           PE: 2.63                          PB: 1.06                
+Navn: Wilh. Wilhelmsen Holding ser. B         PE: 2.81                          PB: 0.39                
+Navn: Arendals Fossekompani                   PE: 2.85                          PB: 1.51                
+Navn: Wilh. Wilhelmsen Holding ser. A         PE: 2.89                          PB: 0.4                 
+Navn: Apptix                                  PE: 3.18                          PB: 0.72                
+Navn: SAS AB                                  PE: 4.86                          PB: 1.14                
+Navn: Olav Thon Eiendomsselskap               PE: 5.86                          PB: 0.62                
+Navn: Pareto Bank                             PE: 6.11                          PB: 0.93                
+Navn: Norwegian Finans Holding                PE: 6.65                          PB: 2.06                
+Navn: Entra                                   PE: 6.66                          PB: 1.12                
+Navn: Helgeland Sparebank                     PE: 6.99                          PB: 0.58                
+Navn: SpareBank 1 BV                          PE: 7.11                          PB: 0.8                 
+Navn: Jinhui Shipping and Transportation      PE: 7.26                          PB: 0.42                
+Navn: Komplett Bank                           PE: 7.46                          PB: 1.46                
+Navn: Fjord1                                  PE: 7.55                          PB: 2.06                
+Navn: B2Holding                               PE: 7.62                          PB: 1.43                
+Navn: Indre Sogn Sparebank                    PE: 7.79                          PB: 0.52                
+Navn: Totens Sparebank                        PE: 7.85                          PB: 0.84                
+Navn: SpareBank 1 Østfold Akershus            PE: 7.92                          PB: 0.82                
+Navn: Sparebanken Sør                         PE: 8.16                          PB: 0.72                
+Navn: The Scottish Salmon Company             PE: 8.47                          PB: 2.25                
+Navn: Ocean Yield                             PE: 8.48                          PB: 1.31                
+Navn: XXL                                     PE: 8.76                          PB: 0.94                
+Navn: Sparebanken Vest                        PE: 8.97                          PB: 0.9                 
+Navn: Kværner                                 PE: 9.15                          PB: 0.98                
+Navn: SpareBank 1 Nord-Norge                  PE: 9.23                          PB: 1.08                
+Navn: SpareBank 1 SMN                         PE: 9.33                          PB: 0.96                
+Navn: Sandnes Sparebank                       PE: 9.49                          PB: 0.69                
+Navn: Sparebanken Øst                         PE: 9.57                          PB: 0.94                
+Navn: Europris                                PE: 9.6                           PB: 2.18                
+Navn: SpareBank 1 SR-Bank                     PE: 9.6                           PB: 1.12                
+Navn: Norsk Hydro                             PE: 9.62                          PB: 0.88                
+Navn: Sparebanken Møre                        PE: 9.91                          PB: 0.91                
+Navn: DNB                                     PE: 9.95                          PB: 1.05                
+Navn: SpareBank 1 Østlandet                   PE: 10.1                          PB: 0.95                
+Navn: Golden Ocean Group                      PE: 10.2                          PB: 0.6                 
+Navn: Melhus Sparebank                        PE: 10.36                         PB: 0.88                
+Navn: Selvaag Bolig                           PE: 10.51                         PB: 1.35                
+Navn: BW Offshore Limited                     PE: 10.65                         PB: 0.57                
+Navn: Norwegian Property                      PE: 11.11                         PB: 0.75                
+Navn: Sbanken                                 PE: 11.16                         PB: 1.45                
+Navn: Equinor                                 PE: 11.28                         PB: 1.88                
+Navn: DNO                                     PE: 11.33                         PB: 1.91                
+Navn: Storebrand                              PE: 12.24                         PB: 0.91                
+Navn: Austevoll Seafood                       PE: 13.01                         PB: 1.18                
+Navn: Lerøy Seafood Group                     PE: 13.08                         PB: 2.8                 
+Navn: Norwegian Air Shuttle                   PE: 13.12                         PB: 1.57                
+Navn: NTS                                     PE: 13.59                         PB: 2.08                
+Navn: Kitron                                  PE: 13.75                         PB: 2.33                
+Navn: Bouvet                                  PE: 14.46                         PB: 8.93                
+Navn: Byggma                                  PE: 14.53                         PB: 0.65                
+Navn: Grieg Seafood                           PE: 14.72                         PB: 3.55                
+Navn: Stolt-Nielsen                           PE: 15.58                         PB: 0.53                
+Navn: Borregaard                              PE: 15.6                          PB: 2.53                
+Navn: Telenor                                 PE: 15.8                          PB: 4.07                
+Navn: Subsea 7                                PE: 15.88                         PB: 0.54                
+Navn: American Shipping Company               PE: 16.14                         PB: 1.29                
+Navn: StrongPoint                             PE: 16.44                         PB: 1.4                 
+Navn: Norway Royal Salmon                     PE: 16.7                          PB: 4.35                
+Navn: Self Storage Group                      PE: 17.36                         PB: 1.91                
+Navn: AF Gruppen                              PE: 17.39                         PB: 6.08                
+Navn: Arcus                                   PE: 17.41                         PB: 1.66                
+Navn: Polaris Media                           PE: 17.71                         PB: 0.83                
+Navn: AKVA Group                              PE: 17.8                          PB: 3.51                
+Navn: Bakkafrost                              PE: 18.06                         PB: 4.53                
+Navn: Veidekke                                PE: 18.12                         PB: 3.36                
+Navn: SalMar                                  PE: 19.03                         PB: 6.7                 
+Navn: EVRY                                    PE: 19.57                         PB: 3.38                
+Navn: Gjensidige Forsikring                   PE: 19.65                         PB: 2.83                
+Navn: Orkla                                   PE: 20.05                         PB: 2.05                
+Navn: Asetek                                  PE: 20.47                         PB: 3.87                
+Navn: NRC Group                               PE: 20.85                         PB: 2.15                
+Navn: Aker BP                                 PE: 21.24                         PB: 3.22                
+Navn: Itera                                   PE: 21.46                         PB: 12.81               
+Navn: Odfjell Drilling                        PE: 21.72                         PB: 0.64                
+Navn: Aker                                    PE: 22.29                         PB: 0.84                
+Navn: Marine Harvest                          PE: 22.68                         PB: 4.09                
+Navn: Atea                                    PE: 22.73                         PB: 3.56                
+Navn: Protector Forsikring                    PE: 24.73                         PB: 1.53                
+Navn: Kongsberg Gruppen                       PE: 25.08                         PB: 2.13                
+Navn: Medistim                                PE: 25.46                         PB: 6.35                
+Navn: Data Respons                            PE: 25.6                          PB: 3.19                
+Navn: TGS-NOPEC Geophysical Company           PE: 26.61                         PB: 2.11                
+Navn: Aker Solutions                          PE: 27.08                         PB: 1.54                
+Navn: Hexagon Composites                      PE: 27.58                         PB: 2.9                 
+Navn: TTS Group                               PE: 33.16                         PB: 0.9                 
+Navn: Funcom                                  PE: 39.78                         PB: 6.53                
+Navn: Tomra Systems                           PE: 41.43                         PB: 6.15                
+Navn: Nordic Semiconductor                    PE: 51.79                         PB: 4.62                
+Navn: Schibsted ser. B                        PE: 56.58                         PB: 4.02                
+Navn: Höegh LNG Holdings                      PE: 56.97                         PB: 0.46                
+Navn: Schibsted ser. A                        PE: 63.26                         PB: 4.49                
+Navn: Kongsberg Automotive                    PE: 73.64                         PB: 1.76                
+Navn: Solon Eiendom                           PE: 77.0                          PB: 4.04                
+Navn: Crayon Group Holding                    PE: 94.12                         PB: 2.13                
+Navn: S.D. Standard Drilling                  PE: 102.0                         PB: 0.63                
+Navn: Yara International                      PE: 105.47                        PB: 1.17                
+Navn: Scatec Solar                            PE: 120.0                         PB: 3.81                
+Navn: Q-Free                                  PE: 354.52                        PB: 23.69               
+Navn: Northern Drilling                       PE: 843.33                        PB: 1.02                
+Navn: Axactor                                 PE: 955.9                         PB: 9.96                
+[Finished in 0.3s]

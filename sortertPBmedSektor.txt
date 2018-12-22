@@ -1,0 +1,196 @@
+Navn: InterOil Exploration and Production     PE: -14.09                        PB: -3.41               sektor: Energi              
+Navn: Atlantic Petroleum                      PE: 0.0                           PB: 0.0                 sektor: Energi              
+Navn: Eidesvik Offshore                       PE: 0.0                           PB: 0.0                 sektor: Energi              
+Navn: EMAS Offshore                           PE: 0.0                           PB: 0.0                 sektor: Energi              
+Navn: RAK Petroleum                           PE: 0.0                           PB: 0.0                 sektor: Energi              
+Navn: Seadrill                                PE: 0.0                           PB: 0.0                 sektor: Energi              
+Navn: Shelf Drilling                          PE: 0.0                           PB: 0.0                 sektor: Energi              
+Navn: Siem Offshore                           PE: 0.0                           PB: 0.0                 sektor: Energi              
+Navn: Fred. Olsen Energy                      PE: -0.02                         PB: 0.02                sektor: Energi              
+Navn: Oceanteam                               PE: -0.11                         PB: 0.02                sektor: Energi              
+Navn: Havila Shipping                         PE: -0.16                         PB: 0.08                sektor: Energi              
+Navn: DOF                                     PE: -0.71                         PB: 0.11                sektor: Energi              
+Navn: Solstad Offshore                        PE: -0.19                         PB: 0.11                sektor: Energi              
+Navn: Reach Subsea                            PE: -2.44                         PB: 0.18                sektor: Energi              
+Navn: Magnora                                 PE: 0.12                          PB: 0.21                sektor: Energi              
+Navn: Wentworth Resources                     PE: -8.12                         PB: 0.25                sektor: Energi              
+Navn: Avance Gas Holding                      PE: -2.08                         PB: 0.27                sektor: Energi              
+Navn: Prosafe                                 PE: -1.56                         PB: 0.28                sektor: Energi              
+Navn: Bonheur                                 PE: -2.54                         PB: 0.35                sektor: Energi              
+Navn: Archer                                  PE: -3.57                         PB: 0.37                sektor: Energi              
+Navn: Polarcus                                PE: -0.56                         PB: 0.39                sektor: Energi              
+Navn: BW LPG                                  PE: -8.06                         PB: 0.43                sektor: Energi              
+Navn: Questerre Energy Corporation            PE: -4.15                         PB: 0.44                sektor: Energi              
+Navn: Awilco Drilling                         PE: -4.58                         PB: 0.46                sektor: Energi              
+Navn: Höegh LNG Holdings                      PE: 56.97                         PB: 0.46                sektor: Energi              
+Navn: Subsea 7                                PE: 15.88                         PB: 0.54                sektor: Energi              
+Navn: Bergen Group                            PE: -2.81                         PB: 0.57                sektor: Energi              
+Navn: BW Offshore Limited                     PE: 10.65                         PB: 0.57                sektor: Energi              
+Navn: Electromagnetic Geoservices             PE: -1.16                         PB: 0.57                sektor: Energi              
+Navn: Petroleum Geo-Services                  PE: -1.94                         PB: 0.57                sektor: Energi              
+Navn: Akastor                                 PE: -15.27                        PB: 0.61                sektor: Energi              
+Navn: S.D. Standard Drilling                  PE: 102.0                         PB: 0.63                sektor: Energi              
+Navn: Odfjell Drilling                        PE: 21.72                         PB: 0.64                sektor: Energi              
+Navn: Petrolia                                PE: -25.0                         PB: 0.68                sektor: Energi              
+Navn: Borr Drilling                           PE: -14.25                        PB: 0.8                 sektor: Energi              
+Navn: Frontline                               PE: -3.6                          PB: 0.85                sektor: Energi              
+Navn: Kværner                                 PE: 9.15                          PB: 0.98                sektor: Energi              
+Navn: Northern Drilling                       PE: 843.33                        PB: 1.02                sektor: Energi              
+Navn: FLEX LNG                                PE: -239.0                        PB: 1.03                sektor: Energi              
+Navn: Magseis Fairfield                       PE: -13.12                        PB: 1.15                sektor: Energi              
+Navn: SeaBird Exploration                     PE: -13.08                        PB: 1.2                 sektor: Energi              
+Navn: Ocean Yield                             PE: 8.48                          PB: 1.31                sektor: Energi              
+Navn: Spectrum                                PE: -12.64                        PB: 1.48                sektor: Energi              
+Navn: Aker Solutions                          PE: 27.08                         PB: 1.54                sektor: Energi              
+Navn: Equinor                                 PE: 11.28                         PB: 1.88                sektor: Energi              
+Navn: DNO                                     PE: 11.33                         PB: 1.91                sektor: Energi              
+Navn: TGS-NOPEC Geophysical Company           PE: 26.61                         PB: 2.11                sektor: Energi              
+Navn: Aker BP                                 PE: 21.24                         PB: 3.22                sektor: Energi              
+Navn: Panoro Energy                           PE: -5.8                          PB: 3.34                sektor: Energi              
+Navn: Norwegian Energy Company                PE: -35.15                        PB: 3.43                sektor: Energi              
+Navn: Aqualis                                 PE: -35.45                        PB: 5.82                sektor: Energi              
+Navn: Aurskog Sparebank                       PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: Høland og Setskog Sparebank             PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: Infront                                 PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: Jæren Sparebank                         PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: Skue Sparebank                          PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: SpareBank 1 Nordvest                    PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: SpareBank 1 Ringerike Hadeland          PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: Voss Veksel- og Landmandsbank           PE: 0.0                           PB: 0.0                 sektor: Finansielle tjenester
+Navn: Indre Sogn Sparebank                    PE: 7.79                          PB: 0.52                sektor: Finansielle tjenester
+Navn: Helgeland Sparebank                     PE: 6.99                          PB: 0.58                sektor: Finansielle tjenester
+Navn: Sandnes Sparebank                       PE: 9.49                          PB: 0.69                sektor: Finansielle tjenester
+Navn: Sparebanken Sør                         PE: 8.16                          PB: 0.72                sektor: Finansielle tjenester
+Navn: SpareBank 1 BV                          PE: 7.11                          PB: 0.8                 sektor: Finansielle tjenester
+Navn: SpareBank 1 Østfold Akershus            PE: 7.92                          PB: 0.82                sektor: Finansielle tjenester
+Navn: Aker                                    PE: 22.29                         PB: 0.84                sektor: Finansielle tjenester
+Navn: Totens Sparebank                        PE: 7.85                          PB: 0.84                sektor: Finansielle tjenester
+Navn: Melhus Sparebank                        PE: 10.36                         PB: 0.88                sektor: Finansielle tjenester
+Navn: Sparebanken Vest                        PE: 8.97                          PB: 0.9                 sektor: Finansielle tjenester
+Navn: Sparebanken Møre                        PE: 9.91                          PB: 0.91                sektor: Finansielle tjenester
+Navn: Storebrand                              PE: 12.24                         PB: 0.91                sektor: Finansielle tjenester
+Navn: Pareto Bank                             PE: 6.11                          PB: 0.93                sektor: Finansielle tjenester
+Navn: Sparebanken Øst                         PE: 9.57                          PB: 0.94                sektor: Finansielle tjenester
+Navn: SpareBank 1 Østlandet                   PE: 10.1                          PB: 0.95                sektor: Finansielle tjenester
+Navn: SpareBank 1 SMN                         PE: 9.33                          PB: 0.96                sektor: Finansielle tjenester
+Navn: DNB                                     PE: 9.95                          PB: 1.05                sektor: Finansielle tjenester
+Navn: SpareBank 1 Nord-Norge                  PE: 9.23                          PB: 1.08                sektor: Finansielle tjenester
+Navn: SpareBank 1 SR-Bank                     PE: 9.6                           PB: 1.12                sektor: Finansielle tjenester
+Navn: B2Holding                               PE: 7.62                          PB: 1.43                sektor: Finansielle tjenester
+Navn: Sbanken                                 PE: 11.16                         PB: 1.45                sektor: Finansielle tjenester
+Navn: Komplett Bank                           PE: 7.46                          PB: 1.46                sektor: Finansielle tjenester
+Navn: Protector Forsikring                    PE: 24.73                         PB: 1.53                sektor: Finansielle tjenester
+Navn: Norwegian Finans Holding                PE: 6.65                          PB: 2.06                sektor: Finansielle tjenester
+Navn: ABG Sundal Collier Holding              PE: 1.03                          PB: 2.3                 sektor: Finansielle tjenester
+Navn: Insr Insurance Group                    PE: -4.55                         PB: 2.33                sektor: Finansielle tjenester
+Navn: Gjensidige Forsikring                   PE: 19.65                         PB: 2.83                sektor: Finansielle tjenester
+Navn: Axactor                                 PE: 955.9                         PB: 9.96                sektor: Finansielle tjenester
+Navn: Gyldendal                               PE: 0.0                           PB: 0.0                 sektor: Forbruksvarer       
+Navn: Kid                                     PE: 0.0                           PB: 0.0                 sektor: Forbruksvarer       
+Navn: XXL                                     PE: 8.76                          PB: 0.94                sektor: Forbruksvarer       
+Navn: Kongsberg Automotive                    PE: 73.64                         PB: 1.76                sektor: Forbruksvarer       
+Navn: Gaming Innovation Group                 PE: -57.13                        PB: 2.01                sektor: Forbruksvarer       
+Navn: Europris                                PE: 9.6                           PB: 2.18                sektor: Forbruksvarer       
+Navn: Fjordkraft Holding                      PE: 0.0                           PB: 0.0                 sektor: Forsyningsselskaper 
+Navn: Arendals Fossekompani                   PE: 2.85                          PB: 1.51                sektor: Forsyningsselskaper 
+Navn: Scatec Solar                            PE: 120.0                         PB: 3.81                sektor: Forsyningsselskaper 
+Navn: Storm Real Estate                       PE: -0.67                         PB: 0.42                sektor: GICS_60             
+Navn: Olav Thon Eiendomsselskap               PE: 5.86                          PB: 0.62                sektor: GICS_60             
+Navn: Norwegian Property                      PE: 11.11                         PB: 0.75                sektor: GICS_60             
+Navn: Entra                                   PE: 6.66                          PB: 1.12                sektor: GICS_60             
+Navn: Selvaag Bolig                           PE: 10.51                         PB: 1.35                sektor: GICS_60             
+Navn: Solon Eiendom                           PE: 77.0                          PB: 4.04                sektor: GICS_60             
+Navn: Targovax                                PE: -2.8                          PB: 0.77                sektor: Helsevern           
+Navn: Vistin Pharma                           PE: 2.63                          PB: 1.06                sektor: Helsevern           
+Navn: Navamedic                               PE: -8.27                         PB: 1.12                sektor: Helsevern           
+Navn: Biotec Pharmacon                        PE: -8.41                         PB: 3.63                sektor: Helsevern           
+Navn: BerGenBio                               PE: -6.95                         PB: 3.73                sektor: Helsevern           
+Navn: Nordic Nanovector                       PE: -7.7                          PB: 3.8                 sektor: Helsevern           
+Navn: Photocure                               PE: -27.03                        PB: 4.59                sektor: Helsevern           
+Navn: Medistim                                PE: 25.46                         PB: 6.35                sektor: Helsevern           
+Navn: ContextVision                           PE: -200.74                       PB: 7.09                sektor: Helsevern           
+Navn: PCI Biotech Holding                     PE: -13.59                        PB: 16.13               sektor: Helsevern           
+Navn: Belships                                PE: 0.0                           PB: 0.0                 sektor: Industri            
+Navn: Multiconsult                            PE: 0.0                           PB: 0.0                 sektor: Industri            
+Navn: Odfjell ser. A                          PE: 0.0                           PB: 0.0                 sektor: Industri            
+Navn: Odfjell ser. B                          PE: 0.0                           PB: 0.0                 sektor: Industri            
+Navn: Star Bulk Carriers                      PE: 0.0                           PB: 0.0                 sektor: Industri            
+Navn: Wilson                                  PE: 0.0                           PB: 0.0                 sektor: Industri            
+Navn: GC Rieber Shipping                      PE: -3.03                         PB: 0.35                sektor: Industri            
+Navn: Goodtech                                PE: -5.87                         PB: 0.36                sektor: Industri            
+Navn: Team Tankers International              PE: -5.51                         PB: 0.38                sektor: Industri            
+Navn: Wilh. Wilhelmsen Holding ser. B         PE: 2.81                          PB: 0.39                sektor: Industri            
+Navn: Wilh. Wilhelmsen Holding ser. A         PE: 2.89                          PB: 0.4                 sektor: Industri            
+Navn: Jinhui Shipping and Transportation      PE: 7.26                          PB: 0.42                sektor: Industri            
+Navn: Havyard Group                           PE: -5.14                         PB: 0.49                sektor: Industri            
+Navn: Wallenius Wilhelmsen                    PE: 1.04                          PB: 0.52                sektor: Industri            
+Navn: Stolt-Nielsen                           PE: 15.58                         PB: 0.53                sektor: Industri            
+Navn: Treasure                                PE: -1.34                         PB: 0.54                sektor: Industri            
+Navn: Golden Ocean Group                      PE: 10.2                          PB: 0.6                 sektor: Industri            
+Navn: Byggma                                  PE: 14.53                         PB: 0.65                sektor: Industri            
+Navn: TTS Group                               PE: 33.16                         PB: 0.9                 sektor: Industri            
+Navn: SAS AB                                  PE: 4.86                          PB: 1.14                sektor: Industri            
+Navn: American Shipping Company               PE: 16.14                         PB: 1.29                sektor: Industri            
+Navn: Norwegian Air Shuttle                   PE: 13.12                         PB: 1.57                sektor: Industri            
+Navn: Self Storage Group                      PE: 17.36                         PB: 1.91                sektor: Industri            
+Navn: Fjord1                                  PE: 7.55                          PB: 2.06                sektor: Industri            
+Navn: NTS                                     PE: 13.59                         PB: 2.08                sektor: Industri            
+Navn: Kongsberg Gruppen                       PE: 25.08                         PB: 2.13                sektor: Industri            
+Navn: NRC Group                               PE: 20.85                         PB: 2.15                sektor: Industri            
+Navn: Hexagon Composites                      PE: 27.58                         PB: 2.9                 sektor: Industri            
+Navn: NEL                                     PE: -41.82                        PB: 3.26                sektor: Industri            
+Navn: Veidekke                                PE: 18.12                         PB: 3.36                sektor: Industri            
+Navn: AKVA Group                              PE: 17.8                          PB: 3.51                sektor: Industri            
+Navn: Zalaris                                 PE: -39.24                        PB: 4.55                sektor: Industri            
+Navn: AF Gruppen                              PE: 17.39                         PB: 6.08                sektor: Industri            
+Navn: Tomra Systems                           PE: 41.43                         PB: 6.15                sektor: Industri            
+Navn: MPC Container Ships                     PE: -1093.33                      PB: 7.42                sektor: Industri            
+Navn: Napatech                                PE: 0.0                           PB: 0.0                 sektor: Informasjonsteknologi
+Navn: poLight                                 PE: 0.0                           PB: 0.0                 sektor: Informasjonsteknologi
+Navn: Webstep                                 PE: 0.0                           PB: 0.0                 sektor: Informasjonsteknologi
+Navn: REC Silicon                             PE: -0.37                         PB: 0.39                sektor: Informasjonsteknologi
+Navn: Apptix                                  PE: 3.18                          PB: 0.72                sektor: Informasjonsteknologi
+Navn: Thin Film Electronics                   PE: -0.18                         PB: 0.84                sektor: Informasjonsteknologi
+Navn: Techstep                                PE: -33.0                         PB: 1.06                sektor: Informasjonsteknologi
+Navn: StrongPoint                             PE: 16.44                         PB: 1.4                 sektor: Informasjonsteknologi
+Navn: Cxense                                  PE: -2.57                         PB: 1.47                sektor: Informasjonsteknologi
+Navn: Crayon Group Holding                    PE: 94.12                         PB: 2.13                sektor: Informasjonsteknologi
+Navn: Kitron                                  PE: 13.75                         PB: 2.33                sektor: Informasjonsteknologi
+Navn: NEXT Biometrics Group                   PE: -2.33                         PB: 2.38                sektor: Informasjonsteknologi
+Navn: Data Respons                            PE: 25.6                          PB: 3.19                sektor: Informasjonsteknologi
+Navn: EVRY                                    PE: 19.57                         PB: 3.38                sektor: Informasjonsteknologi
+Navn: Atea                                    PE: 22.73                         PB: 3.56                sektor: Informasjonsteknologi
+Navn: Asetek                                  PE: 20.47                         PB: 3.87                sektor: Informasjonsteknologi
+Navn: Nordic Semiconductor                    PE: 51.79                         PB: 4.62                sektor: Informasjonsteknologi
+Navn: IDEX                                    PE: -0.65                         PB: 4.84                sektor: Informasjonsteknologi
+Navn: Hiddn Solutions                         PE: -3.14                         PB: 6.14                sektor: Informasjonsteknologi
+Navn: Bouvet                                  PE: 14.46                         PB: 8.93                sektor: Informasjonsteknologi
+Navn: Itera                                   PE: 21.46                         PB: 12.81               sektor: Informasjonsteknologi
+Navn: Q-Free                                  PE: 354.52                        PB: 23.69               sektor: Informasjonsteknologi
+Navn: Salmones Camanchaca                     PE: 0.0                           PB: 0.0                 sektor: Konsumentvarer      
+Navn: Austevoll Seafood                       PE: 13.01                         PB: 1.18                sektor: Konsumentvarer      
+Navn: Arcus                                   PE: 17.41                         PB: 1.66                sektor: Konsumentvarer      
+Navn: Orkla                                   PE: 20.05                         PB: 2.05                sektor: Konsumentvarer      
+Navn: The Scottish Salmon Company             PE: 8.47                          PB: 2.25                sektor: Konsumentvarer      
+Navn: Lerøy Seafood Group                     PE: 13.08                         PB: 2.8                 sektor: Konsumentvarer      
+Navn: Grieg Seafood                           PE: 14.72                         PB: 3.55                sektor: Konsumentvarer      
+Navn: Marine Harvest                          PE: 22.68                         PB: 4.09                sektor: Konsumentvarer      
+Navn: Norway Royal Salmon                     PE: 16.7                          PB: 4.35                sektor: Konsumentvarer      
+Navn: Bakkafrost                              PE: 18.06                         PB: 4.53                sektor: Konsumentvarer      
+Navn: SalMar                                  PE: 19.03                         PB: 6.7                 sektor: Konsumentvarer      
+Navn: Avocet Mining PLC                       PE: -0.06                         PB: -0.02               sektor: Materialer          
+Navn: Elkem                                   PE: 0.0                           PB: 0.0                 sektor: Materialer          
+Navn: Borgestad                               PE: -2.64                         PB: 0.13                sektor: Materialer          
+Navn: Incus Investor                          PE: -0.83                         PB: 0.37                sektor: Materialer          
+Navn: Element                                 PE: -0.51                         PB: 0.79                sektor: Materialer          
+Navn: Norsk Hydro                             PE: 9.62                          PB: 0.88                sektor: Materialer          
+Navn: Yara International                      PE: 105.47                        PB: 1.17                sektor: Materialer          
+Navn: Borregaard                              PE: 15.6                          PB: 2.53                sektor: Materialer          
+Navn: Otello Corporation                      PE: -8.68                         PB: 0.46                sektor: Telekommunikasjon og tjenester
+Navn: Polaris Media                           PE: 17.71                         PB: 0.83                sektor: Telekommunikasjon og tjenester
+Navn: NextGenTel Holding                      PE: 1.98                          PB: 2.59                sektor: Telekommunikasjon og tjenester
+Navn: Schibsted ser. B                        PE: 56.58                         PB: 4.02                sektor: Telekommunikasjon og tjenester
+Navn: Telenor                                 PE: 15.8                          PB: 4.07                sektor: Telekommunikasjon og tjenester
+Navn: Schibsted ser. A                        PE: 63.26                         PB: 4.49                sektor: Telekommunikasjon og tjenester
+Navn: Funcom                                  PE: 39.78                         PB: 6.53                sektor: Telekommunikasjon og tjenester
+[Finished in 0.3s]
