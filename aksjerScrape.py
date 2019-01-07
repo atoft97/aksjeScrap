@@ -161,7 +161,7 @@ def lagreDict(aksjeselskap):
 	pickle.dump(aksjeselskap, open("save.p", "wb"))
 
 
-#lagreDict(aksjeselskap)
+lagreDict(aksjeselskap) #kommenter vekk denne når du har lasta da ned ein gong
 
 def hentDict():
 	return(pickle.load(open("save.p", "rb")))
@@ -196,14 +196,17 @@ for nokkel, element in aksjeselskap.items():
 	aksjeListe.append(aksje)
 
 
-aksjeListe.sort(key=lambda x: x.pb)
+aksjeListe.sort(key=lambda x: x.pe)
 #aksjeListe.sort(key=lambda x: x.sektor)
+
+
 
 for aksje in aksjeListe:
 	#print("Navn:",aksje.navn ," | ", "PE:", aksje.pe)
 
-	#sys.stdout.write("{:<6}{:<40}{:<4}{:<30}{:<4}{:<20}{:<8}{:<20}\n".format("Navn:", aksje.navn, "PE:", aksje.pe, "PB:",aksje.pb, "sektor:", aksje.sektor))
+	sys.stdout.write("{:<6}{:<40}{:<4}{:<30}{:<4}{:<20}{:<8}{:<20}\n".format("Navn:", aksje.navn, "PE:", aksje.pe, "PB:",aksje.pb, "sektor:", aksje.sektor))
 
-	sys.stdout.write("{:<6}{:<40}{:<4}{:<30}{:<4}{:<20}\n".format("Navn:", aksje.navn, "PE:", aksje.pe, "PB:",aksje.pb))
+	#sys.stdout.write("{:<6}{:<40}{:<4}{:<30}{:<4}{:<20}\n".format("Navn:", aksje.navn, "PE:", aksje.pe, "PB:",aksje.pb))
+
 
 
